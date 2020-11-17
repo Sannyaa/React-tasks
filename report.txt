@@ -1,2 +1,10 @@
-17/11
 Introduction to JSX
+Inline styling
+React components
+React props
+Mapping data
+React conditional rendering (?:, &&)
+React Hooks - useState
+
+17/11
+Object and Array Destructuring
