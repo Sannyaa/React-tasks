@@ -23,3 +23,6 @@ Managing component tree
 
 27/11
 Styling practice
+
+29/11
+Revision - 1
