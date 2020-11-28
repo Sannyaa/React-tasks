@@ -11,3 +11,15 @@ Object and Array Destructuring
 
 18/11
 React forms
+
+20/11
+Changing complex state
+
+21/11
+Spread operator
+
+23/11
+Managing component tree
+
+27/11
+Styling practice
